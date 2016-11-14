@@ -1,5 +1,5 @@
 # Ng2Select2
-
+See live running demo at https://usmanwalana.github.io/ng2-select2/
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.19-3.
 
 ## Development server
